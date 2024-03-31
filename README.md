@@ -3,11 +3,20 @@
 * "Vølvens vej - Misteltenen" by Anne-Marie Vedsø Olesen
 
 # Books that I want to read
-* "The Books of Earthsea - The Complete Illustrated Edition" by Ursula K. Le Guin (I've read the first three books a couple of times as a child)
-* Continue "The Expanse" book series by James S. A. Coreys. I've read the first three books
-* Probably read the following 2 Dune books that I've already have
+
+## Books that I own, but have not read yet
+* Probably read the following 2 Dune books: "Dune Messiah" and "Children of Dune"
 * Perhaps reread the first many books in the "Dragonlance" series - in the beginning primarily by Tracy Hickman and Margaret Weis 
 * "Sandman The Deluxe Edition Book 1" by Neil Gaiman and Sam Kieth
+* "We Have No Idea - A Guide to the Unknown Universe" by Jorge Cham and Daniel Whiteson
+* "Rød mand/sort mand" by Kim Leine
+* "1984" by George Orwell
+* "The Dark Forest" and "Death's End" - book 2 and 3 in the "The Three-Body Problem" book series by Cixin Liu
+* "Dette fremmede i mig" by Orhan Pamuk
+
+## Books that I want to buy
+* "The Books of Earthsea - The Complete Illustrated Edition" by Ursula K. Le Guin (I've read the first three books a couple of times as a child)
+* Continue "The Expanse" book series by James S. A. Corey
 * ...
 
 # Books that I've read
@@ -26,10 +35,16 @@ The last couple of years and which I can remember. The years might also be wrong
 * "Permanent Record" by Edward Snowden
 * "The Atrocity Archives" by Charles Stross
 * "Batman: The Dark Knight Returns" by Frank Miller, Klaus Janson, and Lynn Varley
-* "Ready Player Two" by Ernest Cline
+* "Ready Player Two" by Ernest Cline¨
+* "Abaddon's Gate" - book 3 in "The Expanse" book series by James S. A. Corey
 
 ## 2022
 * The "Broken Earth" series: "The Fifth Season", "The Obelisk Gate", and "The Stone Sky" by  N. K. Jemisin
-* "What I Talk About When I Talk About Running"  by Haruki Murakami
 * "The Peripheral" by William Gibson
 * "Ready Player One" by Ernest Cline
+* "Leviathan Wakes" and "Caliban's War" - the first two books in "The Expanse" book series by James S. A. Corey
+* "The Three-Body Problem" - the first book in the "The Three-Body Problem" book series by Cixin Liu
+
+## 2021 (or before)
+* "Alt det lys vi ikke ser" by Anthony Doerr
+* "What I Talk About When I Talk About Running" by Haruki Murakami
