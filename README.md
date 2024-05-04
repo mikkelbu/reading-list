@@ -1,11 +1,10 @@
 # Currently reading
-* "Dune 50th Anniversary Edition" by Frank Herbert
-* "Vølvens vej - Misteltenen" by Anne-Marie Vedsø Olesen
+* "Dune Messiah" by Frank Herbert
 
 # Books that I want to read
 
 ## Books that I own, but have not read yet
-* Probably read the following 2 Dune books: "Dune Messiah" and "Children of Dune"
+* "Children of Dune"
 * Perhaps reread the first many books in the "Dragonlance" series - in the beginning primarily by Tracy Hickman and Margaret Weis 
 * "Sandman The Deluxe Edition Book 1" by Neil Gaiman and Sam Kieth
 * "We Have No Idea - A Guide to the Unknown Universe" by Jorge Cham and Daniel Whiteson
@@ -24,6 +23,8 @@
 The last couple of years and which I can remember. The years might also be wrong :).
 
 ## 2024
+* "Dune 50th Anniversary Edition" by Frank Herbert
+* "Vølvens vej - Misteltenen" by Anne-Marie Vedsø Olesen
 * "Vølvens vej - Snehild" by Anne-Marie Vedsø Olesen
 * "Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch" by Terry Pratchett and Neil Gaiman
 * "American Gods" by Neil Gaiman
