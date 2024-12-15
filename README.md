@@ -1,16 +1,15 @@
 # Currently reading
-* "Children of Dune" by Frank Herbert
+* "Agency" by William Gibson
 
 # Books that I want to read
 
 ## Books that I own, but have not read yet
 * Perhaps reread the first many books in the "Dragonlance" series - in the beginning primarily by Tracy Hickman and Margaret Weis 
 * "Sandman The Deluxe Edition Book 1" by Neil Gaiman and Sam Kieth
-* "We Have No Idea - A Guide to the Unknown Universe" by Jorge Cham and Daniel Whiteson
 * "Rød mand/sort mand" by Kim Leine
-* "1984" by George Orwell
 * "The Dark Forest" and "Death's End" - book 2 and 3 in the "The Three-Body Problem" book series by Cixin Liu
 * "Dette fremmede i mig" by Orhan Pamuk
+* "How Big Things Get Done" by Bent Flyvbjerg
 
 ## Books that I want to buy
 * "The Books of Earthsea - The Complete Illustrated Edition" by Ursula K. Le Guin (I've read the first three books a couple of times as a child)
@@ -22,6 +21,9 @@
 The last couple of years and which I can remember. The years might also be wrong :).
 
 ## 2024
+* "We Have No Idea - A Guide to the Unknown Universe" by Jorge Cham and Daniel Whiteson
+* "1984" by George Orwell
+* "Children of Dune" by Frank Herbert
 * "Dune Messiah" by Frank Herbert
 * "Dune 50th Anniversary Edition" by Frank Herbert
 * "Vølvens vej - Misteltenen" by Anne-Marie Vedsø Olesen
