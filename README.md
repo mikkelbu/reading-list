@@ -1,5 +1,6 @@
 # Currently reading
 * "Agency" by William Gibson
+* "The Murderbot Diaries - Artificial Condition" by Martha Wells
 
 # Books that I want to read
 
@@ -10,6 +11,7 @@
 * "The Dark Forest" and "Death's End" - book 2 and 3 in the "The Three-Body Problem" book series by Cixin Liu
 * "Dette fremmede i mig" by Orhan Pamuk
 * "How Big Things Get Done" by Bent Flyvbjerg
+* "The Murderbot Diaries - Rogue Protocol" by Martha Wells
 
 ## Books that I want to buy
 * "The Books of Earthsea - The Complete Illustrated Edition" by Ursula K. Le Guin (I've read the first three books a couple of times as a child)
@@ -22,6 +24,7 @@ The last couple of years and which I can remember. The years might also be wrong
 
 ## 2024
 * "We Have No Idea - A Guide to the Unknown Universe" by Jorge Cham and Daniel Whiteson
+* "The Murderbot Diaries - All Systems Red" by Martha Wells
 * "1984" by George Orwell
 * "Children of Dune" by Frank Herbert
 * "Dune Messiah" by Frank Herbert
@@ -38,7 +41,7 @@ The last couple of years and which I can remember. The years might also be wrong
 * "Permanent Record" by Edward Snowden
 * "The Atrocity Archives" by Charles Stross
 * "Batman: The Dark Knight Returns" by Frank Miller, Klaus Janson, and Lynn Varley
-* "Ready Player Two" by Ernest Cline¨
+* "Ready Player Two" by Ernest Cline
 * "Abaddon's Gate" - book 3 in "The Expanse" book series by James S. A. Corey
 
 ## 2022
