@@ -31,16 +31,17 @@ The last couple of years and which I can remember. The years might also be wrong
 * "Dune 50th Anniversary Edition" by Frank Herbert
 * "Vølvens vej - Misteltenen" by Anne-Marie Vedsø Olesen
 * "Vølvens vej - Snehild" by Anne-Marie Vedsø Olesen
-* "Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch" by Terry Pratchett and Neil Gaiman
+* "Norse Mythology" by Neil Gaiman
+* "Good Omens" The Nice and Accurate Prophecies of Agnes Nutter, Witch" by Terry Pratchett and Neil Gaiman
 * "American Gods" by Neil Gaiman
-* "Batman: The Killing Joke Deluxe" by Alan Moore and Brian Bolland
-* "Doomsday Clock: The Complete Collection" by Geoff Johns, Gary Frank, and Brad Anderson
+* "Batman" The Killing Joke Deluxe" by Alan Moore and Brian Bolland
+* "Doomsday Clock - The Complete Collection" by Geoff Johns, Gary Frank, and Brad Anderson
 
 ## 2023
 * "The Unspoken Name" by A.K. Larkwood
 * "Permanent Record" by Edward Snowden
 * "The Atrocity Archives" by Charles Stross
-* "Batman: The Dark Knight Returns" by Frank Miller, Klaus Janson, and Lynn Varley
+* "Batman" The Dark Knight Returns" by Frank Miller, Klaus Janson, and Lynn Varley
 * "Ready Player Two" by Ernest Cline
 * "Abaddon's Gate" - book 3 in "The Expanse" book series by James S. A. Corey
 
