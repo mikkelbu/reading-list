@@ -1,6 +1,5 @@
 # Currently reading
-* "Agency" by William Gibson
-* "The Murderbot Diaries - Artificial Condition" by Martha Wells
+* "The Murderbot Diaries - Rogue Protocol" by Martha Wells
 
 # Books that I want to read
 
@@ -21,6 +20,10 @@
 # Books that I've read
 
 The last couple of years and which I can remember. The years might also be wrong :).
+
+## 2025
+* "Agency" by William Gibson
+* "The Murderbot Diaries - Artificial Condition" by Martha Wells
 
 ## 2024
 * "We Have No Idea - A Guide to the Unknown Universe" by Jorge Cham and Daniel Whiteson
