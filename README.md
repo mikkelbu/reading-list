@@ -1,5 +1,5 @@
 # Currently reading
-* "The Murderbot Diaries - Rogue Protocol" by Martha Wells
+* "Nemesis Games" - book 5 in "The Expanse" book series by James S. A. Corey
 
 # Books that I want to read
 
@@ -9,8 +9,6 @@
 * "Rød mand/sort mand" by Kim Leine
 * "The Dark Forest" and "Death's End" - book 2 and 3 in the "The Three-Body Problem" book series by Cixin Liu
 * "Dette fremmede i mig" by Orhan Pamuk
-* "How Big Things Get Done" by Bent Flyvbjerg
-* "The Murderbot Diaries - Rogue Protocol" by Martha Wells
 
 ## Books that I want to buy
 * "The Books of Earthsea - The Complete Illustrated Edition" by Ursula K. Le Guin (I've read the first three books a couple of times as a child)
@@ -22,6 +20,10 @@
 The last couple of years and which I can remember. The years might also be wrong :).
 
 ## 2025
+* "Cibola Burn" - book 4 in "The Expanse" book series by James S. A. Corey
+* "The Murderbot Diaries - Exit Strategy" by Martha Wells
+* "The Murderbot Diaries - Rogue Protocol" by Martha Wells
+* "How Big Things Get Done" by Bent Flyvbjerg
 * "Agency" by William Gibson
 * "The Murderbot Diaries - Artificial Condition" by Martha Wells
 
