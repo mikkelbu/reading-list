@@ -1,5 +1,5 @@
 # Currently reading
-* "Nemesis Games" - book 5 in "The Expanse" book series by James S. A. Corey
+* "Babylon's Ashes" - book 6 in "The Expanse" book series by James S. A. Corey
 
 # Books that I want to read
 
@@ -20,6 +20,10 @@
 The last couple of years and which I can remember. The years might also be wrong :).
 
 ## 2025
+* "Nemesis Games" - book 5 in "The Expanse" book series by James S. A. Corey
+* "The Murderbot Diaries - System Collapse" by Martha Wells
+* "The Murderbot Diaries - Fugitive Telemetry" by Martha Wells
+* "The Murderbot Diaries - Network Effect" by Martha Wells
 * "Cibola Burn" - book 4 in "The Expanse" book series by James S. A. Corey
 * "The Murderbot Diaries - Exit Strategy" by Martha Wells
 * "The Murderbot Diaries - Rogue Protocol" by Martha Wells
