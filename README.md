@@ -1,5 +1,5 @@
 # Currently reading
-* "Babylon's Ashes" - book 6 in "The Expanse" book series by James S. A. Corey
+* TBD
 
 # Books that I want to read
 
@@ -12,7 +12,7 @@
 
 ## Books that I want to buy
 * "The Books of Earthsea - The Complete Illustrated Edition" by Ursula K. Le Guin (I've read the first three books a couple of times as a child)
-* Continue "The Expanse" book series by James S. A. Corey
+* "Memory's Legion" by James S. A. Corey
 * ...
 
 # Books that I've read
@@ -20,6 +20,10 @@
 The last couple of years and which I can remember. The years might also be wrong :).
 
 ## 2025
+* "Leviathan Falls" - book 9 in "The Expanse" book series by James S. A. Corey
+* "Tiamat's Wrath" - book 8 in "The Expanse" book series by James S. A. Corey
+* "Persepolis Rising" - book 7 in "The Expanse" book series by James S. A. Corey
+* "Babylon's Ashes" - book 6 in "The Expanse" book series by James S. A. Corey
 * "Nemesis Games" - book 5 in "The Expanse" book series by James S. A. Corey
 * "The Murderbot Diaries - System Collapse" by Martha Wells
 * "The Murderbot Diaries - Fugitive Telemetry" by Martha Wells
