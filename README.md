@@ -12,7 +12,12 @@
 
 ## Books that I want to buy
 * "The Books of Earthsea - The Complete Illustrated Edition" by Ursula K. Le Guin (I've read the first three books a couple of times as a child)
-* "Memory's Legion" by James S. A. Corey
+* "Kings of the Wyld" by Nicholas Eames
+* "Six of Crows" by Leigh Bardugo
+* "Red Rising" by Pierce Brown
+* "Circe" by Madeline Miller
+* "Tomorrow, and Tomorrow, and Tomorrow" by Gabrielle Zevin
+* Garrett Files Series by Glen Cook
 * ...
 
 # Books that I've read
@@ -20,6 +25,8 @@
 The last couple of years and which I can remember. The years might also be wrong :).
 
 ## 2025
+* "Of Mice and Men" by John Steinbeck
+* "Memory's Legion" by James S. A. Corey
 * "Leviathan Falls" - book 9 in "The Expanse" book series by James S. A. Corey
 * "Tiamat's Wrath" - book 8 in "The Expanse" book series by James S. A. Corey
 * "Persepolis Rising" - book 7 in "The Expanse" book series by James S. A. Corey
