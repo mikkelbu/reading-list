@@ -18,6 +18,7 @@
 * "Circe" by Madeline Miller
 * "Tomorrow, and Tomorrow, and Tomorrow" by Gabrielle Zevin
 * Garrett Files Series by Glen Cook
+* Den guddommelige komedie by Ditlev Tamm og Alexander Tovborg
 * ...
 
 # Books that I've read
