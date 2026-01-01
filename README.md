@@ -1,7 +1,8 @@
 # Currently reading
-* TBD
+* "Snow Crash" by Neal Stephenson
 
 # Books that I want to read
+* "The Tainted Cup" by Robert Jackson Bennett
 
 ## Books that I own, but have not read yet
 * Perhaps reread the first many books in the "Dragonlance" series - in the beginning primarily by Tracy Hickman and Margaret Weis 
@@ -25,7 +26,11 @@
 
 The last couple of years and which I can remember. The years might also be wrong :).
 
+## 2026
+* 
+
 ## 2025
+* "Project Hail Mary" by Andy Weir
 * "Of Mice and Men" by John Steinbeck
 * "Memory's Legion" by James S. A. Corey
 * "Leviathan Falls" - book 9 in "The Expanse" book series by James S. A. Corey
