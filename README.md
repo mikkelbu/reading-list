@@ -1,8 +1,8 @@
 # Currently reading
-* "Snow Crash" by Neal Stephenson
+* "The Tainted Cup" by Robert Jackson Bennett
 
 # Books that I want to read
-* "The Tainted Cup" by Robert Jackson Bennett
+* TBA
 
 ## Books that I own, but have not read yet
 * Perhaps reread the first many books in the "Dragonlance" series - in the beginning primarily by Tracy Hickman and Margaret Weis 
@@ -10,16 +10,16 @@
 * "Rød mand/sort mand" by Kim Leine
 * "The Dark Forest" and "Death's End" - book 2 and 3 in the "The Three-Body Problem" book series by Cixin Liu
 * "Dette fremmede i mig" by Orhan Pamuk
+* Den guddommelige komedie by Ditlev Tamm og Alexander Tovborg
+* "Red Rising" by Pierce Brown
 
 ## Books that I want to buy
 * "The Books of Earthsea - The Complete Illustrated Edition" by Ursula K. Le Guin (I've read the first three books a couple of times as a child)
 * "Kings of the Wyld" by Nicholas Eames
 * "Six of Crows" by Leigh Bardugo
-* "Red Rising" by Pierce Brown
 * "Circe" by Madeline Miller
 * "Tomorrow, and Tomorrow, and Tomorrow" by Gabrielle Zevin
 * Garrett Files Series by Glen Cook
-* Den guddommelige komedie by Ditlev Tamm og Alexander Tovborg
 * ...
 
 # Books that I've read
@@ -27,7 +27,8 @@
 The last couple of years and which I can remember. The years might also be wrong :).
 
 ## 2026
-* 
+* "Vølvens vej - Ormehavet" by Anne-Marie Vedsø Olesen
+* "Snow Crash" by Neal Stephenson
 
 ## 2025
 * "Project Hail Mary" by Andy Weir
@@ -42,6 +43,7 @@ The last couple of years and which I can remember. The years might also be wrong
 * "The Murderbot Diaries - Fugitive Telemetry" by Martha Wells
 * "The Murderbot Diaries - Network Effect" by Martha Wells
 * "Cibola Burn" - book 4 in "The Expanse" book series by James S. A. Corey
+* "Vølvens vej - Ulvegabet" by Anne-Marie Vedsø Olesen
 * "The Murderbot Diaries - Exit Strategy" by Martha Wells
 * "The Murderbot Diaries - Rogue Protocol" by Martha Wells
 * "How Big Things Get Done" by Bent Flyvbjerg
