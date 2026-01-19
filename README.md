@@ -1,5 +1,5 @@
 # Currently reading
-* "The Tainted Cup" by Robert Jackson Bennett
+* "Red Rising" by Pierce Brown
 
 # Books that I want to read
 * TBA
@@ -11,7 +11,6 @@
 * "The Dark Forest" and "Death's End" - book 2 and 3 in the "The Three-Body Problem" book series by Cixin Liu
 * "Dette fremmede i mig" by Orhan Pamuk
 * Den guddommelige komedie by Ditlev Tamm og Alexander Tovborg
-* "Red Rising" by Pierce Brown
 
 ## Books that I want to buy
 * "The Books of Earthsea - The Complete Illustrated Edition" by Ursula K. Le Guin (I've read the first three books a couple of times as a child)
@@ -27,6 +26,7 @@
 The last couple of years and which I can remember. The years might also be wrong :).
 
 ## 2026
+* "The Tainted Cup" by Robert Jackson Bennett
 * "Vølvens vej - Ormehavet" by Anne-Marie Vedsø Olesen
 * "Snow Crash" by Neal Stephenson
 
