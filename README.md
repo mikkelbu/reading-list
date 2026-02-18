@@ -1,6 +1,6 @@
 # Currently reading
 * "HjerneRo" by Martin Riis Kastrup and Mads Vangsgaard Hyldig
-* "Golden Son" - book 2 in the "Red Rising Saga" - by Pierce Brown
+* "Morning Star" - book 3 in the "Red Rising Saga" - by Pierce Brown
 
 # Books that I want to read
 * TBA
@@ -28,6 +28,7 @@
 The last couple of years and which I can remember. The years might also be wrong :).
 
 ## 2026
+* "Golden Son" - book 2 in the "Red Rising Saga" - by Pierce Brown
 * "Red Rising" - book 1 in the "Red Rising Saga" by Pierce Brown
 * "The Tainted Cup" by Robert Jackson Bennett
 * "Vølvens vej - Ormehavet" by Anne-Marie Vedsø Olesen
