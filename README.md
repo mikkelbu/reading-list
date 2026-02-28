@@ -1,6 +1,6 @@
 # Currently reading
 * "HjerneRo" by Martin Riis Kastrup and Mads Vangsgaard Hyldig
-* "Morning Star" - book 3 in the "Red Rising Saga" - by Pierce Brown
+* "Kings of the Wyld" - book 1 in the "The Band" series - by Nicholas Eames
 
 # Books that I want to read
 * TBA
@@ -12,7 +12,6 @@
 * "The Dark Forest" and "Death's End" - book 2 and 3 in the "The Three-Body Problem" book series by Cixin Liu
 * "Dette fremmede i mig" by Orhan Pamuk
 * "Den guddommelige komedie" by Ditlev Tamm og Alexander Tovborg
-* "Kings of the Wyld" - book 1 in the "The Band" series - by Nicholas Eames
 
 ## Books that I want to buy
 * "The Books of Earthsea - The Complete Illustrated Edition" by Ursula K. Le Guin (I've read the first three books a couple of times as a child)
@@ -28,6 +27,7 @@
 The last couple of years and which I can remember. The years might also be wrong :).
 
 ## 2026
+* "Morning Star" - book 3 in the "Red Rising Saga" - by Pierce Brown
 * "Golden Son" - book 2 in the "Red Rising Saga" - by Pierce Brown
 * "Red Rising" - book 1 in the "Red Rising Saga" by Pierce Brown
 * "The Tainted Cup" by Robert Jackson Bennett
