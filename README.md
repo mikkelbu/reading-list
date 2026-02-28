@@ -15,7 +15,6 @@
 
 ## Books that I want to buy
 * "The Books of Earthsea - The Complete Illustrated Edition" by Ursula K. Le Guin (I've read the first three books a couple of times as a child)
-* "Kings of the Wyld" by Nicholas Eames
 * "Six of Crows" by Leigh Bardugo
 * "Circe" by Madeline Miller
 * "Tomorrow, and Tomorrow, and Tomorrow" by Gabrielle Zevin
