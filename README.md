@@ -1,5 +1,6 @@
 # Currently reading
 * "HjerneRo" by Martin Riis Kastrup and Mads Vangsgaard Hyldig
+* "Dark Age" - book 5 in the "Red Rising Saga" - by Pierce Brown
 
 # Books that I want to read
 * TBA
@@ -25,6 +26,7 @@
 The last couple of years and which I can remember. The years might also be wrong :).
 
 ## 2026
+* "Iron Gold" - book 4 in the "Red Rising Saga" - by Pierce Brown
 * "Dungeon Crawler Carl" - book 1 in the "Dungeon Crawler Carl" series - by Matt Dinniman
 * "Kings of the Wyld" - book 1 in the "The Band" series - by Nicholas Eames
 * "Morning Star" - book 3 in the "Red Rising Saga" - by Pierce Brown
