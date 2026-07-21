@@ -1,17 +1,18 @@
 # Currently reading
 * "HjerneRo" by Martin Riis Kastrup and Mads Vangsgaard Hyldig
-* "Dark Age" - book 5 in the "Red Rising Saga" - by Pierce Brown
+* "Sandman The Deluxe Edition Book 1" by Neil Gaiman and Sam Kieth
+* "Light Bringer" - book 6 in the "Red Rising Saga" - by Pierce Brown
 
 # Books that I want to read
 * TBA
 
 ## Books that I own, but have not read yet
 * Perhaps reread the first many books in the "Dragonlance" series - in the beginning primarily by Tracy Hickman and Margaret Weis 
-* "Sandman The Deluxe Edition Book 1" by Neil Gaiman and Sam Kieth
 * "Rød mand/sort mand" by Kim Leine
 * "The Dark Forest" and "Death's End" - book 2 and 3 in the "The Three-Body Problem" book series by Cixin Liu
 * "Dette fremmede i mig" by Orhan Pamuk
 * "Den guddommelige komedie" by Ditlev Tamm og Alexander Tovborg
+* "The Will of The Many" - book 1 in the "The Hierarchy" series - James Islington
 
 ## Books that I want to buy
 * "The Books of Earthsea - The Complete Illustrated Edition" by Ursula K. Le Guin (I've read the first three books a couple of times as a child)
@@ -19,6 +20,13 @@
 * "Circe" by Madeline Miller
 * "Tomorrow, and Tomorrow, and Tomorrow" by Gabrielle Zevin
 * Garrett Files Series by Glen Cook
+* "Carl's Doomsday Scenario" - book 2 in the "Dungeon Crawler Carl" series - by Matt Dinniman
+* "Piranesi by Susanna Clark
+* "The Sword of Kaigen by M. L. Wang
+* "The Spear Cuts Through Water" by Simon Jimenez
+* "The Grace of Kings" - book 1 in the "Dandelion Dynasty" Series - by Ken Liu
+* "We Are Legion (We Are Bob)" - book 1 in the "Bobiverse" Series - by Dennis E. Taylor
+* "Speaker for the Dead" by Orson Scott Card
 * ...
 
 # Books that I've read
@@ -26,6 +34,9 @@
 The last couple of years and which I can remember. The years might also be wrong :).
 
 ## 2026
+* "Amulet: The Stonekeeper" - graphic novels 1-9 - by Kazu Kibuishi
+* "The Murderbot Diaries - Platform Decay" by Martha Wells
+* "Dark Age" - book 5 in the "Red Rising Saga" - by Pierce Brown
 * "Iron Gold" - book 4 in the "Red Rising Saga" - by Pierce Brown
 * "Dungeon Crawler Carl" - book 1 in the "Dungeon Crawler Carl" series - by Matt Dinniman
 * "Kings of the Wyld" - book 1 in the "The Band" series - by Nicholas Eames
