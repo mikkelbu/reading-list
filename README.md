@@ -1,7 +1,7 @@
 # Currently reading
 * "HjerneRo" by Martin Riis Kastrup and Mads Vangsgaard Hyldig
 * "Sandman The Deluxe Edition Book 1" by Neil Gaiman and Sam Kieth
-* "Light Bringer" - book 6 in the "Red Rising Saga" - by Pierce Brown
+* "Carl's Doomsday Scenario" - book 2 in the "Dungeon Crawler Carl" series - by Matt Dinniman
 
 # Books that I want to read
 * TBA
@@ -12,7 +12,6 @@
 * "The Dark Forest" and "Death's End" - book 2 and 3 in the "The Three-Body Problem" book series by Cixin Liu
 * "Dette fremmede i mig" by Orhan Pamuk
 * "Den guddommelige komedie" by Ditlev Tamm og Alexander Tovborg
-* "The Will of The Many" - book 1 in the "The Hierarchy" series - James Islington
 
 ## Books that I want to buy
 * "The Books of Earthsea - The Complete Illustrated Edition" by Ursula K. Le Guin (I've read the first three books a couple of times as a child)
@@ -20,7 +19,6 @@
 * "Circe" by Madeline Miller
 * "Tomorrow, and Tomorrow, and Tomorrow" by Gabrielle Zevin
 * Garrett Files Series by Glen Cook
-* "Carl's Doomsday Scenario" - book 2 in the "Dungeon Crawler Carl" series - by Matt Dinniman
 * "Piranesi by Susanna Clark
 * "The Sword of Kaigen by M. L. Wang
 * "The Spear Cuts Through Water" by Simon Jimenez
@@ -34,6 +32,8 @@
 The last couple of years and which I can remember. The years might also be wrong :).
 
 ## 2026
+* "The Will of The Many" - book 1 in the "The Hierarchy" series - James Islington
+* "Light Bringer" - book 6 in the "Red Rising Saga" - by Pierce Brown
 * "Amulet: The Stonekeeper" - graphic novels 1-9 - by Kazu Kibuishi
 * "The Murderbot Diaries - Platform Decay" by Martha Wells
 * "Dark Age" - book 5 in the "Red Rising Saga" - by Pierce Brown
