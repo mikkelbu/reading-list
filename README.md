@@ -1,7 +1,7 @@
 # Currently reading
+* "The Three-Body Problem" (rereading) - the first book in the "The Three-Body Problem" book series by Cixin Liu
 * "HjerneRo" by Martin Riis Kastrup and Mads Vangsgaard Hyldig
 * "Sandman The Deluxe Edition Book 1" by Neil Gaiman and Sam Kieth
-* "Carl's Doomsday Scenario" - book 2 in the "Dungeon Crawler Carl" series - by Matt Dinniman
 
 # Books that I want to read
 * TBA
@@ -32,6 +32,7 @@
 The last couple of years and which I can remember. The years might also be wrong :).
 
 ## 2026
+* "Carl's Doomsday Scenario" - book 2 in the "Dungeon Crawler Carl" series - by Matt Dinniman
 * "The Will of The Many" - book 1 in the "The Hierarchy" series - James Islington
 * "Light Bringer" - book 6 in the "Red Rising Saga" - by Pierce Brown
 * "Amulet: The Stonekeeper" - graphic novels 1-9 - by Kazu Kibuishi
